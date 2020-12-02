@@ -24,6 +24,7 @@ xyz
 
 https://dash.plotly.com/layout
 
+https://towardsdatascience.com/the-easiest-way-to-deploy-your-dash-app-for-free-f92c575bb69e
 
 
 # Credits 
