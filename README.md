@@ -12,7 +12,7 @@ Assume Apache 2.0 license.
 
 # Data
 
-xyz
+[Covid histroical by State](https://covidtracking.com/data/download/all-states-history.csv)
 
 
 # Visualization
