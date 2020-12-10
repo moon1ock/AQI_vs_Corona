@@ -11,6 +11,7 @@ Assume Apache 2.0 license.
 # Data
 
 [Covid histroical by State from the Atlantic](https://covidtracking.com/data/download/all-states-history.csv)
+
 [AQI by county from EPA](https://www.epa.gov/outdoor-air-quality-data)
 
 
